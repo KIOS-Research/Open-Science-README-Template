@@ -66,6 +66,7 @@ volume = {8},
 year = {2023}
 }
 ```
+&uparrow; [Back to top](#table-of-contents)
 
 ## Requirements
 * Python >=3.9
@@ -74,6 +75,8 @@ year = {2023}
 * Operating System: Windows / Linux / macOS
 * Language / Platform: e.g. Python, MATLAB, C++
 * Dependencies: list required libraries or tools
+
+&uparrow; [Back to top](#table-of-contents)
 
 ## How to install
 
@@ -85,7 +88,8 @@ cd project-name
 
 Add any project-specific installation steps if needed.
 
----
+&uparrow; [Back to top](#table-of-contents)
+
 
 ## How to use the toolkit / Usage
 
@@ -149,7 +153,6 @@ project-name/
 ```
 
 &uparrow; [Back to top](#table-of-contents)
-
 
 ## Publications
 - Paper Title, Journal/Conference, Year — DOI: XXXXX  
